@@ -1,6 +1,8 @@
 Features
 ########
 
+.. _Material Picker Feature:
+
 Material Picker
 ***************
 

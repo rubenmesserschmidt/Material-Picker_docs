@@ -14,7 +14,7 @@ Hotkeys
 *******
 
 **Material Picker**
- Activates the :ref:`Material Picker` tool.
+ Activates the :ref:`Material Picker <Material Picker Feature>` tool.
   :Default: ``Alt + M``
 
 |
