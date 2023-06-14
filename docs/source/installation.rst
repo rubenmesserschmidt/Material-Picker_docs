@@ -16,7 +16,7 @@ Written Tutorial
 
 1. Go to *Edit/Preferences*.
 #. Select *Add-ons* on the left.
-#. Click *Install...* in the top right corner. This will open a file dialog
+#. Click *Install* in the top right corner. This will open a file dialog
 #. | Navigate to where you have downloaded the **Material-Picker_x.x.x.zip** file.
    | Do not unpack this file.
 #. Click the *Install add-on from file* button.
