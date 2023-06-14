@@ -14,19 +14,19 @@ For showing the material the following cases are considered:
 #. The material is assigned to a material slot of the object
    
    * The object will be selected and the according material slot will be made active.
-
+     
 
 #. The material is otherwise assigned to the object (e.g. Geometry Nodes 'Set Material Node')
    
    * A new hidden object will be created and the material will be assigned to it.
    * Then **1** will be applied.
-
+     
 
 #. The material is part of an object that is instanced (e.g. Collection Instance)
    
    * The original object will be searched.
    * Then **1** or **2** will be applied.
-
+    
 
 #. The material is part of an object that is linked from another *.blend* file
    
