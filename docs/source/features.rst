@@ -38,3 +38,4 @@ Material Search
 :Menu: Context Menu ‣ Material Search
 :Hotkey: ``Alt + M`` (Changable in the *Preferences*)
 
+Search any material by name to show it's node tree. For showing the material node tree the same cases as for the pick are considered.
