@@ -6,7 +6,7 @@ Material Pick
 
 :Area: 3D Viewport
 :Menu: Context Menu ‣ Material Picker
-:Hotkey: ``Alt + M`` (Changable in the *Preferences*)
+:Hotkey: ``Alt + M`` (Changable in the :ref:`Preferences`)
 
 Hover over any material in the viewport and then press `Leftclick` to select it.
 For showing the material the following cases are considered:
@@ -25,7 +25,7 @@ For showing the material the following cases are considered:
 
    * **Load File**: The linked file will be loaded in a new blender instance. Then **1** or **2** will be applied and the *Shading* workspace will be activated.
 
-     :Auto Reload: If the material in the linked file is changed, the material will be updated automatically. Needs to be enabled in the *Preferences*.
+     :Auto Reload: If the material in the linked file is changed, the material will be updated automatically. Needs to be enabled in the :ref:`Preferences`.
 
    * **Show Local**: **1** or **2** will be applied but the material is not editable, since it remains linked.
 
@@ -36,6 +36,6 @@ Material Search
 
 :Area: Shader Editor
 :Menu: Context Menu ‣ Material Search
-:Hotkey: ``Alt + M`` (Changable in the *Preferences*)
+:Hotkey: ``Alt + M`` (Changable in the :ref:`Preferences`)
 
 Search any material by name to show it's node tree. For showing the material node tree the same cases as for the pick are considered.
