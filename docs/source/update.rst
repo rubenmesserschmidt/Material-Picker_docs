@@ -4,14 +4,9 @@ Update
 Material Picker
 *************
 
-.. warning::
-    DO NOT deinstall the old version of Material Picker!
-    Otherwise all preferences will be gone and reseted to the default.
-    Instead follow the following instructions without touching the old version.
-
 1. Follow the :doc:`installation` instructions and choose the new addon .zip file.
 #. Enjoy the new version of Material Picker.
- 
+
 
 Blender Version
 ***************
