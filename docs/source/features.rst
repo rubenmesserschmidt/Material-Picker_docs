@@ -1,8 +1,8 @@
 Features
 ########
 
-Material Pick
-*************
+Material Picker
+***************
 
 :Area: 3D Viewport
 :Menu: Context Menu ‣ Material Picker
