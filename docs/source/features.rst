@@ -40,7 +40,13 @@ For showing the material the following cases are considered:
 
       **Show Local**: **1** or **2** will be applied but the material is not editable, since it remains linked.
 
+|
+During picking you can enable the following features by holding the according key:
 
+* ``ALT``: Pick all materials laying under your mouse cursor resulting in a list of materials to choose from (just like when holding alt when selecting objects in the viewport).
+* ``CTRL``: Take also objects into consideration which are displayed as wire, else they are ignored.
+
+You can change the modifier keys to hold for these features in the :ref:`Preferences`.
 
 Material Search
 ***************
