@@ -1,7 +1,7 @@
 Material Picker
 =============
 
-.. image:: images/MP_thumbnail.jpg
+.. image:: images/material-picker_thumbnail.jpg
    :width: 600
    :alt: Material Picker Thumbnail
 
