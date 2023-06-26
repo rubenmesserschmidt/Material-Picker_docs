@@ -48,11 +48,11 @@ During picking you can enable the following features by holding the according ke
 
 You can change the modifier keys to hold for these features in the :ref:`Preferences`.
 
-Material Search
-***************
+Material Browser
+****************
 
 :Area: Shader Editor
-:Menu: Context Menu ‣ Material Search
+:Menu: Context Menu ‣ Material Browser
 :Hotkey: ``Alt + M`` (Changable in the :ref:`Preferences`)
 
 Search any material by name to show it's node tree. For showing the material node tree the same cases as for the pick are considered.
