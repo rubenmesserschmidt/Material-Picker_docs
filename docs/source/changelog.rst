@@ -11,6 +11,7 @@ Bug Fixes
 * **Load linked File**
   Fixed an issue where the material got not automatically selected on loading a linked file.
 
+|
 * **Library override Objects**
   Material Picker now works with library override objects as expected.
 
