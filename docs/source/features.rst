@@ -48,11 +48,40 @@ During picking you can enable the following features by holding the according ke
 
 You can change the modifier keys to hold for these features in the :ref:`Preferences`.
 
+
 Material Browser
 ****************
+
+:Area: Shader Editor
+:Menu: Sidebar ‣ Material Browser
+
+| Browse through all materials in your blend file.
+| Select one to show it's node tree immediately. For showing the material node tree the same cases as for the Material Picker are considered.
+
+.. info::
+   Use the reload button below the list to keep the material browser up to date. This is necessary after adding or removing materials in your blend file.
+
+The following features are available:
+
+* **Select**: Select an existing material and show it's node tree.
+* **Add**: Add a new material to the blend file.
+* **Remove**: Remove the selected material from the blend file.
+
+The following filter options are available:
+
+* **Search**: Search for materials by name. Use ``*`` as wildcard.
+* **Favorites**: Show only materials marked as favorite.
+
+The following sorting options are available:
+
+* **Name**: Order by name alphabetically.
+
+
+Material Search
+***************
 
 :Area: Shader Editor
 :Menu: Context Menu ‣ Material Browser
 :Hotkey: ``Alt + M`` (Changable in the :ref:`Preferences`)
 
-Search any material by name to show it's node tree. For showing the material node tree the same cases as for the pick are considered.
+Fast search for materials by name. The chosen material will also be selected in the Material Browser.

@@ -2,6 +2,17 @@ Changelog
 #########
 
 |
+1.1.0
+*****
+
+New Features
+^^^^^^^^^
+
+* **Material Browser**
+   There is now a material browser available in the Sidebar of the Shader Editor. Find out more :ref:`here <Material Browser>`.
+
+
+|
 1.0.2
 *****
 
