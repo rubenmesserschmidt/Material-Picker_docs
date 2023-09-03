@@ -14,22 +14,15 @@ Hover over any material in the viewport and then press `Leftclick` to select it.
 For showing the material the following cases are considered:
 
 1. The material is assigned to a material slot of the object
-   
    * The object will be selected and the according material slot will be made active.
-     
-|
 2. The material is otherwise assigned to the object (e.g. Geometry Nodes 'Set Material Node')
    
    * A new hidden object will be created and the material will be assigned to it.
    * Then **1** will be applied.
-     
-|
 3. The material is part of an object that is instanced (e.g. Collection Instance)
    
    * The original object will be searched.
    * Then **1** or **2** will be applied.
-    
-|
 4. The material is part of an object that is linked from another *.blend* file
    
    * A popup window will appear asking if you want to load the linked file or show the material locally
@@ -40,7 +33,6 @@ For showing the material the following cases are considered:
 
       **Show Local**: **1** or **2** will be applied but the material is not editable, since it remains linked.
 
-|
 During picking you can enable the following features by holding the according key:
 
 * ``SHIFT``: Edit the picked material in a popup window.
@@ -59,7 +51,7 @@ Material Browser
 | Browse through all materials in your blend file.
 | Select one to show it's node tree immediately. For showing the material node tree the same cases as for the Material Picker are considered.
 
-.. info::
+.. attention:: 
    Use the reload button below the list to keep the material browser up to date. This is necessary after adding or removing materials in your blend file.
 
 The following features are available:
