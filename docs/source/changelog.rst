@@ -2,6 +2,20 @@ Changelog
 #########
 
 |
+1.2.0
+*****
+
+New Features
+^^^^^^^^^
+
+* **Material Browser**: Filter
+   You can now filter materials by objects, collections, and their source. Find out more :ref:`here <Material Browser>`.
+
+* **Material Browser**: Rename Menu
+   You can now rename materials by replacing specificed characters with new ones. Find out more :ref:`here <material_browser.rename_menu>`.
+
+
+|
 1.1.0
 *****
 

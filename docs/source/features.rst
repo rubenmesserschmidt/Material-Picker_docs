@@ -43,6 +43,7 @@ For showing the material the following cases are considered:
 |
 During picking you can enable the following features by holding the according key:
 
+* ``SHIFT``: Edit the picked material in a popup window.
 * ``ALT``: Pick all materials laying under your mouse cursor resulting in a list of materials to choose from (just like when holding alt when selecting objects in the viewport).
 * ``CTRL``: Take also objects into consideration which are displayed as wire, else they are ignored.
 
@@ -66,11 +67,23 @@ The following features are available:
 * **Select**: Select an existing material and show it's node tree.
 * **Add**: Add a new material to the blend file.
 * **Remove**: Remove the selected material from the blend file.
+.. _material_browser.rename_menu:
+* **Rename Menu**: Rename material names by replacing specified characters with new ones.
+    :Find: The characters to be replaced.
+    :Replace: The characters to replace the found ones with.
+    :Case Sensitive: If enabled, the search will be case sensitive.
+    :Regex: If enabled, the search will be treated as a regular expression.
+    :Replace: Replaces the first material name with matching characters.
+    :Replace All: Replaces all material names with matching characters.
+
 
 The following filter options are available:
 
+* **Source**: Show either all materials of the blend file or only the ones in the current scene.
 * **Search**: Search for materials by name. Use ``*`` as wildcard.
 * **Favorites**: Show only materials marked as favorite.
+* **Object**: Show only materials assigned to a specific object.
+* **Collection**: Show only materials assigned to a specific collection.
 
 The following sorting options are available:
 
