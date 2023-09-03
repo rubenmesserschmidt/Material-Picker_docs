@@ -68,6 +68,7 @@ The following features are available:
 * **Add**: Add a new material to the blend file.
 * **Remove**: Remove the selected material from the blend file.
 * **Rename Menu**: Rename material names by replacing specified characters with new ones.
+
    :Find: The characters to be replaced.
    :Replace: The characters to replace the found ones with.
    :Case Sensitive: If enabled, the search will be case sensitive.
