@@ -67,7 +67,6 @@ The following features are available:
 * **Select**: Select an existing material and show it's node tree.
 * **Add**: Add a new material to the blend file.
 * **Remove**: Remove the selected material from the blend file.
-.. _material_browser.rename_menu:
 * **Rename Menu**: Rename material names by replacing specified characters with new ones.
     :Find: The characters to be replaced.
     :Replace: The characters to replace the found ones with.

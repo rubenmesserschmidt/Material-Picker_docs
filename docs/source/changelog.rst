@@ -8,11 +8,14 @@ Changelog
 New Features
 ^^^^^^^^^
 
+* **Material Property Popup**
+   You can now open a popup with all material properties when holding ``SHIFT`` while picking. Find out more :ref:`here <>`.
+
 * **Material Browser**: Filter
    You can now filter materials by objects, collections, and their source. Find out more :ref:`here <Material Browser>`.
 
 * **Material Browser**: Rename Menu
-   You can now rename materials by replacing specificed characters with new ones. Find out more :ref:`here <material_browser.rename_menu>`.
+   You can now rename materials by replacing specificed characters with new ones. Find out more :ref:`here <Material Browser>`.
 
 
 |
