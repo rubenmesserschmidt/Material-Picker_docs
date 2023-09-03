@@ -6,14 +6,13 @@ Update
 Material Picker
 ***************
 
-.. important::
+.. warning::
     Please make sure to follow these instructions carefully.
     Otherwise there might be errors showing up, then simply restart Blender.
     Also these instructions can change based on the features of each update, so come back here every time you update Material Picker.
 
 
-1. Remove the Material Picker addon from Blender.
-#. Restart Blender.
+1. Remove the Material Picker addon from Blender by choosing *Edit/Preferences/Add-Ons/Material Picker/Remove*.
 #. Follow the :doc:`installation` instructions and choose the new .zip file.
 #. Enjoy the new version of Material Picker.
 
