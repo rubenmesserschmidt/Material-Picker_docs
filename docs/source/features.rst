@@ -35,6 +35,7 @@ For showing the material the following cases are considered:
 
      * **Load File**: The linked file will be loaded in a new blender instance. Then **1** or **2** will be applied and the *Shading* workspace will be activated.
 
+
         :Auto Reload: If the material in the linked file is changed, the material will be updated automatically. Needs to be enabled in the :ref:`Preferences`.
     
      * **Show Local**: **1** or **2** will be applied but the material is not editable, since it remains linked.
