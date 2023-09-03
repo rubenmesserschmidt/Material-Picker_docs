@@ -9,14 +9,22 @@ New Features
 ^^^^^^^^^
 
 * **Material Property Popup**
-   You can now open a popup with all material properties when holding ``SHIFT`` while picking. Find out more :ref:`here <>`.
+   You can now open a popup with all material properties when holding ``SHIFT`` while picking. Find out more :ref:`here <Material Picker>`.
 
-* **Material Browser**: Filter
+* **Material Browser**: New filter
    You can now filter materials by objects, collections, and their source. Find out more :ref:`here <Material Browser>`.
 
-* **Material Browser**: Rename Menu
+* **Material Browser**: Rename menu
    You can now rename materials by replacing specificed characters with new ones. Find out more :ref:`here <Material Browser>`.
 
+Bug Fixes
+^^^^^^^^^
+
+* **Linked Materials: Show Local**
+   Linked materials can now be shown locally every time, no matter how they're attached to the object.
+
+* **Linked Materials: Load File**
+   Fixed a rare issue where the workspace automatically switched to 'Shading' when opening a file.
 
 |
 1.1.0
