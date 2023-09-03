@@ -21,7 +21,7 @@ Bug Fixes
 ^^^^^^^^^
 
 * **Linked Materials: Show Local**
-   Linked materials can now be shown locally every time, no matter how they're attached to the object.
+   Linked materials can now be shown locally every time, no matter how they are attached to the object.
 
 * **Linked Materials: Load File**
    Fixed a rare issue where the workspace automatically switched to 'Shading' when opening a file.
