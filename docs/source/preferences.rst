@@ -1,7 +1,8 @@
+###########
 Preferences
 ###########
 
-
+********
 Settings
 ********
 
@@ -9,7 +10,7 @@ Settings
  When enabled material changes in the linked file will be automatically synced with the local file. Therefor the python module 'pygetwindow' is required and will be installed automatically.
   :Default: ``Disabled``
 
-
+*******
 Hotkeys
 *******
 

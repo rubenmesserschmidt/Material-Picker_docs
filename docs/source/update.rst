@@ -1,6 +1,8 @@
+######
 Update
 ######
 
+***************
 Material Picker
 ***************
 
@@ -16,6 +18,7 @@ Material Picker
 #. Enjoy the new version of Material Picker.
 
 
+***************
 Blender Version
 ***************
 

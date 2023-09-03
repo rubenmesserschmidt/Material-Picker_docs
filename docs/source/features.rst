@@ -1,8 +1,10 @@
+########
 Features
 ########
 
 .. _Material Picker Feature:
 
+***************
 Material Picker
 ***************
 
@@ -42,6 +44,7 @@ During picking you can enable the following features by holding the according ke
 You can change the modifier keys to hold for these features in the :ref:`Preferences`.
 
 
+****************
 Material Browser
 ****************
 
@@ -82,6 +85,7 @@ The following sorting options are available:
 * **Name**: Order by name alphabetically.
 
 
+***************
 Material Search
 ***************
 
