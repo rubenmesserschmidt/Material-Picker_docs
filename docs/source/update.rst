@@ -2,9 +2,9 @@ Update
 ######
 
 Material Picker
-*************
+***************
 
-.. warning::
+.. important::
     Please make sure to follow these instructions carefully.
     Otherwise there might be errors showing up, then simply restart Blender.
     Also these instructions can change based on the features of each update, so come back here every time you update Material Picker.
