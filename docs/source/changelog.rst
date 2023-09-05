@@ -3,6 +3,19 @@ Changelog
 #########
 
 *****
+1.2.1
+*****
+
+Bug Fixes
+=========
+
+* **Material Browser: Reload**
+   Fixed an issue where an error message occured when there was a non-geometry object in the scene while reloading the browser.
+
+* **Material Picker: Pick Material**
+   Fixed an issue where an error message occured when picking from objects with empty material slots.
+
+*****
 1.2.0
 *****
 
