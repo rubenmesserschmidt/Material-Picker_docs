@@ -6,7 +6,6 @@
 # sys.path.insert(
 #     0, os.path.abspath("c:\\users\\ruben\\appdata\\local\\programs\\python\\python310\\lib\\site-packages")
 # )
-# import sphinx_rtd_theme
 
 # -- Project information
 
@@ -20,7 +19,7 @@ version = "1.0.0"
 # -- General configuration
 
 extensions = [
-    "sphinx_rtd_theme",
+    "sphinx-rtd-theme",
     "sphinx.ext.duration",
     "sphinx.ext.doctest",
     "sphinx.ext.autodoc",
@@ -39,7 +38,7 @@ templates_path = ["_templates"]
 
 # -- Options for HTML output
 
-html_theme = "sphinx_rtd_theme"
+# html_theme = "sphinx_rtd_theme"
 
 # -- Options for EPUB output
 epub_show_urls = "footnote"
