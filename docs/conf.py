@@ -19,13 +19,13 @@ version = "1.0.0"
 # -- General configuration
 
 extensions = [
-    "sphinx-rtd-theme",
     "sphinx.ext.duration",
     "sphinx.ext.doctest",
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.intersphinx",
     "sphinx.ext.autosectionlabel",
+    "sphinx_rtd_theme",
 ]
 
 intersphinx_mapping = {
