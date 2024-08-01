@@ -15,6 +15,9 @@ New Features
 Bug Fixes
 =========
 
+* **Material Picker: Select Material**
+   Fixed an issue where when no material was found, an error could occur.
+
 * **(macOS) Material Picker: Linked Materials**
    Fixed an issue where linked materials didn't update when changing the material in the source file on macOS.
 
