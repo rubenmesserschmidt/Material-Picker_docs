@@ -3,6 +3,22 @@ Changelog
 #########
 
 *****
+1.3.0
+*****
+
+New Features
+============
+
+* **4.2 Extensions Compatible**
+    Material Picker is now compatible with Blender 4.2 extensions.
+
+Bug Fixes
+=========
+
+* **(macOS) Material Picker: Linked Materials**
+   Fixed an issue where linked materials didn't update when changing the material in the source file on macOS.
+
+*****
 1.2.1
 *****
 
