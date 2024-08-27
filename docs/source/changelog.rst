@@ -2,6 +2,19 @@
 Changelog
 #########
 
+*August 27, 2024*
+
+*****
+1.3.2
+*****
+
+Bug Fixes
+=========
+
+* **Material Search: Select Error**
+   Fixed an issue where an error occured when selecting a material from the material search list.
+
+
 *****
 1.3.0
 *****
